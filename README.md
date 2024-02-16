@@ -1,6 +1,5 @@
 <h1>¡HOLA!👋</h1>
 </p>  
-  <h2>Irving Sebastián</h2>
   <p>Técnico en Programación, en proceso para ser Ingeniero en Software, interesado por demostrar y aumentar mis capacidades de programación.</p>
   
 <h2>Lenguajes de programación y Frameworks</h2>
