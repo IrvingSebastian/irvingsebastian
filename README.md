@@ -1,6 +1,6 @@
 <h1>¡HOLA!👋</h1>
 </p>  
-  <p>Técnico en Programación, en proceso para ser Ingeniero en Software, interesado por demostrar y aumentar mis capacidades de programación.</p>
+  <p>Ingeniero en Software <br> Técnico en Programación <br> Interesado por demostrar y aumentar mis capacidades de programación.</p>
   
 <h2>Lenguajes de programación y Frameworks</h2>
   <ul>
